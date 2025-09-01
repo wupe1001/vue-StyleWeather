@@ -4,6 +4,9 @@
 - Vue
 - CSS / JavaScript
 
+## 실행 방법
+- npm run dev
+
 ## 기능
 - 날씨 검색 페이지
 - 코디 추천 기능
