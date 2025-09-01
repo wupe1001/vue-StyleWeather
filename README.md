@@ -1,5 +1,13 @@
-# Vue 3 + Vite
+날씨를 보고 코디를 정해주는 앱입니다. * 진행중
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+## 기술 스택
+- Vue
+- CSS / JavaScript
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+## 기능
+- 날씨 검색 페이지
+- 코디 추천 기능
+
+## 실행 화면
+![메인 페이지](./run/main.png)
+![검색 페이지](./run/search.png)
